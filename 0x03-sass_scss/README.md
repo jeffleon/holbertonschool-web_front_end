@@ -1,7 +1,5 @@
 # Project 0x03 Sass & Scss
 
-Project using Sass
-
 Concepts:
 
     What Sass means
@@ -14,3 +12,4 @@ Concepts:
     How to use mixins
     How to declare extend/inheritance styles
     How to manipulate operators
+
