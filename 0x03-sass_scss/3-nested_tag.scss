@@ -1,9 +1,9 @@
-/* Assigns margin & padding to the tags. */
+/* assign no margin or padding in body tags
+margin 10px to all p tags inside body tag */
 body {
-  margin: 0px;
-  padding: 0px;
-
-  p {
-    margin: 10px;
-  }
+    margin: 0px;
+    padding: 0px;
+    p {
+	margin: 10px;
+    }
 }
